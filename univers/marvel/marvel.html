@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="marvel.css">
+    <title>Chronologie Marvel</title>
+
+</head>
+
+<body>
+    <a href="../../index.html" class="back-button">⬅️ Retour à l'accueil</a>
+    <h1>Chronologie Marvel</h1>
+    
+    <div id="content"></div>
+
+    <script>
+        fetch('../../data/marvel.json')
+        .then(response => response.json())
+        .then(data => {
+            const phase = data["Phase 1"];
+            const content = document.getElementById('content');
+
+            Object.entries(phase).forEach(([period, films]) => {
+            const periodDiv = document.createElement('div');
+            periodDiv.className = 'period';
+
+            const title = document.createElement('h2');
+            title.textContent = period;
+            periodDiv.appendChild(title);
+
+            const gallery = document.createElement('div');
+            gallery.className = 'gallery';
+
+            films.forEach(film => {
+                const movieDiv = document.createElement('div');
+                movieDiv.className = 'movie';
+
+                const img = document.createElement('img');
+                img.src = film.poster !== "Poster non disponible"
+                ? film.poster
+                : "https://via.placeholder.com/150x225?text=Pas+de+poster";
+
+                const movieTitle = document.createElement('div');
+                movieTitle.className = 'movie-title';
+                movieTitle.textContent = film.title;
+
+                movieDiv.appendChild(img);
+                movieDiv.appendChild(movieTitle);
+                gallery.appendChild(movieDiv);
+            });
+
+            periodDiv.appendChild(gallery);
+            content.appendChild(periodDiv);
+            });
+        })
+        .catch(error => {
+            console.error("Erreur lors du chargement du JSON :", error);
+            document.getElementById('content').innerHTML = "<p>Impossible de charger la chronologie.</p>";
+        });
+    </script>
+</body>
+</html>

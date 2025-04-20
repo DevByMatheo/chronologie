@@ -1,0 +1,716 @@
+{
+    "Phase 1": {
+        "Phase 1": [
+            {
+                "title": "Captain America: The First Avenger",
+                "poster": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg"
+            }, 
+            {
+                "title": "Agent Carter Saison 1 & 2",
+                "poster": "https://fr.web.img6.acsta.net/pictures/14/12/18/15/16/182414.jpg"
+            },
+            {
+                "title": "Agent Carter One Shot",
+                "poster": "https://image.tmdb.org/t/p/w500/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg"
+            },
+            {
+                "title": "What If Et si.. Saison 3 Episode 2",
+                "poster": "https://www.superpouvoir.com/wp-content/uploads/2024/12/agatha-in-what-if-season-3-episode-21.jpg"
+            },
+            {
+                "title": "What If Et si… Captain Carter était devenue le premier Avenger ?",
+                "poster": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/165/642/165642987_7237a6.jpg"
+            },
+            {
+                "title": "What If Et si... Captain Carter avait combattu l'Écraseur d'Hydra ?",
+                "poster": "https://marvelblog.com/wp-content/uploads/2024/02/What_if_2-5-17.jpg"
+            },
+            {
+                "title": "X-men : le Commencement",
+                "poster": "https://fr.web.img4.acsta.net/medias/nmedia/18/83/44/48/19732066.jpg"
+            },
+            {
+                "title": "X-Men : Days of Future Past",
+                "poster": "https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg"
+            },
+            {
+                "title": "X-men Origins : Wolverine",
+                "poster": "https://image.tmdb.org/t/p/w500/yj8LbTju1p7CUJg7US2unSBk33s.jpg"
+            },
+            {
+                "title": "X-men : Apocalypse",
+                "poster": "https://image.tmdb.org/t/p/w500/ikA8UhYdTGpqbatFa93nIf6noSr.jpg"
+            },
+            {
+                "title": "X-men : Dark Phoenix",
+                "poster": "https://image.tmdb.org/t/p/w500/cCTJPelKGLhALq3r51A9uMonxKj.jpg"
+            },
+            {
+                "title": "Captain Marvel",
+                "poster": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg"
+            },
+            {
+                "title": "What If Et si.. Saison 3 Episode 3",
+                "poster": "https://www.superpouvoir.com/wp-content/uploads/2024/12/bucky-and-red-guardian-in-what-if-season-3-episode-31.jpg"
+            },
+            {
+                "title": "Blade",
+                "poster": "https://image.tmdb.org/t/p/w500/oWT70TvbsmQaqyphCZpsnQR7R32.jpg"
+            },
+            {
+                "title": "X-men ‘97",
+                "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
+            },
+            {
+                "title": "Spider-man",
+                "poster": "https://static.fnac-static.com/multimedia/images_produits/ZoomPE/4/1/2/3333291111214/tsp20130828140340/Spider-Man.jpg"
+            },
+            {
+                "title": "Blade 2",
+                "poster": "https://cdn.tv-programme.com/photos/streaming_blade-2_13_136613_1200.webp"
+            },
+            {
+                "title": "Daredevil",
+                "poster": "https://image.tmdb.org/t/p/w500/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg"
+            },
+            {
+                "title": "Hulk",
+                "poster": "https://image.tmdb.org/t/p/w500/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg"
+            },
+            {
+                "title": "Madame Web",
+                "poster": "https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg"
+            },
+            {
+                "title": "The Punisher",
+                "poster": "https://image.tmdb.org/t/p/w500/7rmA1HwYp2GKM85BL0cVwCaosGr.jpg"
+            },
+            {
+                "title": "Spider-man 2",
+                "poster": "https://image.tmdb.org/t/p/w500/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg"
+            },
+            {
+                "title": "Blade Trinity",
+                "poster": "https://image.tmdb.org/t/p/w500/r6ycjrStmmAqiY1oDjAli9NArCa.jpg"
+            },
+            {
+                "title": "Elektra",
+                "poster": "https://image.tmdb.org/t/p/w500/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg"
+            },
+            {
+                "title": "X-men",
+                "poster": "https://fr.web.img3.acsta.net/medias/nmedia/18/66/09/04/19089552.jpg"
+            },
+            {
+                "title": "Man-thing",
+                "poster": "https://image.tmdb.org/t/p/w500/kfPPnOygXSGaBFpsCUyu7xQdkoO.jpg"
+            },
+            {
+                "title": "Les 4 fantastiques",
+                "poster": "https://images.justwatch.com/poster/252560415/s718/les-4-fantastiques-2005.jpg"
+            },
+            {
+                "title": "X-men 2",
+                "poster": "https://fr.web.img5.acsta.net/medias/nmedia/18/35/06/08/affiche.jpg"
+            },
+            {
+                "title": "X-men : L'Affrontement Finale",
+                "poster": "https://image.tmdb.org/t/p/w500/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg"
+            },
+            {
+                "title": "Blade The Series",
+                "poster": "https://image.tmdb.org/t/p/w500/xthJ8MoYaJROntPHaI5mUrXd4Qs.jpg"
+            },
+            {
+                "title": "Ghost Rider",
+                "poster": "https://fr.web.img6.acsta.net/medias/nmedia/18/35/23/95/18707057.jpg"
+            },
+            {
+                "title": "Spider-Man 3",
+                "poster": "https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg"
+            },
+            {
+                "title": "Les 4 Fantastiques et le Surfeur d’Argent",
+                "poster": "https://m.media-amazon.com/images/I/71Of5ZKBttL._AC_UF894,1000_QL80_.jpg"
+            },
+            {
+                "title": "War Zone Punisher",
+                "poster": "https://image.tmdb.org/t/p/w500/oOvKJgYUIpfswGHAdW6159bPbvM.jpg"
+            },
+            {
+                "title": "Iron Man",
+                "poster": "https://images.justwatch.com/poster/302621253/s718/iron-man.jpg"
+            },
+            {
+                "title": "What If Et si… Killmonger avait sauvé Tony Stark ?",
+                "poster": "https://www.marvel-cineverse.fr/medias/images/whatif106final.jpg"
+            },
+            {
+                "title": "Iron Man 2",
+                "poster": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg"
+            },
+            {
+                "title": "What If Et si… Le monde avait perdu ses plus puissants héros ?",
+                "poster": "https://marvelll.fr/wp-content/uploads/2021/08/What-If-episode-3-nick-fury-iron-man-850x478.jpg"
+            },
+            {
+                "title": "Thor",
+                "poster": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg"
+            },
+            {
+                "title": "What If Et si… Thor avait été fils unique ?",
+                "poster": "https://www.marvel-cineverse.fr/medias/images/whatif107.jpg"
+            },
+            {
+                "title": "L’incroyable Hulk",
+                "poster": "https://image.tmdb.org/t/p/w500/h4xV2oFYsskehfLEzaNKyHA2GmL.jpg"
+            },
+            {
+                "title": "What If Et si...Kahhori avait refait le monde ?",
+                "poster": "https://i.ytimg.com/vi/78GkJhJRwQU/mqdefault.jpg"
+            },
+            {
+                "title": "What If Et si.. Saison 3 Episode 1",
+                "poster": "https://www.superpouvoir.com/wp-content/uploads/2024/12/what-if-season-3-mecha-avengers1.jpg"
+            },
+            {
+                "title": "One Shot : Le Consultant",
+                "poster": "https://image.tmdb.org/t/p/w500/xqNLXUUvBnfVk6m3QFGGU0Grgs7.jpg"
+            },
+            {
+                "title": "One Shot : Une Drôle d'Histoire en Allant Voir le Marteau de Thor",
+                "poster": "https://image.tmdb.org/t/p/w500/njrOqsmFH4pxBrhcoslqLfw2OGk.jpg"
+            },
+            {
+                "title": "Ghost Rider Spirit of Vengeance",
+                "poster": "https://image.tmdb.org/t/p/w500/fUJOWsjjE8u1r4YOLYe1RLYy7bm.jpg"
+            },
+            {
+                "title": "Avenger",
+                "poster": "https://i.ebayimg.com/images/g/vxsAAMXQgJRQ9aY0/s-l1200.jpg"
+            },
+            {
+                "title": "What If Et si... Iron Man avait rencontré le Grand Maître ?",
+                "poster": "https://www.marvel-cineverse.fr/medias/images/what204.jpg"
+            },
+            {
+                "title": "One Shot : Objet 47",
+                "poster": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/92/04/35/20176766.jpg"
+            },
+            {
+                "title": "Iron Man 3",
+                "poster": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg"
+            }
+    ],
+    "Phase 2": [
+        {
+            "title": "Wolverine : Le Combat de l’Immortel",
+            "poster": "https://image.tmdb.org/t/p/w500/8lzmovtARDXnE7kTDOum02i6fXv.jpg"
+        },
+        {
+            "title": "One Shot : Longue Vie au Roi",
+            "poster": "https://image.tmdb.org/t/p/w500/ozXvopXv1TiOTls8zb09dBmu9dt.jpg"
+        },
+        {
+            "title": "The Amazing Spider-Man",
+            "poster": "https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 1 - Épisodes 1 à 7",
+            "poster": "https://fr.web.img6.acsta.net/pictures/18/12/04/11/27/1113000.jpg"
+        },
+        {
+            "title": "The Amazing Spider-Man : le Destin d’un Héros",
+            "poster": "https://image.tmdb.org/t/p/w500/dGjoPttcbKR5VWg1jQuNFB247KL.jpg"
+        },
+        {
+            "title": "Thor : le Monde des Ténèbres",
+            "poster": "https://image.tmdb.org/t/p/w500/wD6g4EcmR6R3VNbuBmNOVq2qWrM.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 1 - Épisodes 8 à 16",
+            "poster": "https://fr.web.img6.acsta.net/pictures/18/12/04/11/27/1113000.jpg"
+        },
+        {
+            "title": "What If Et si... Happy Hogan avait sauvé Noël ?",
+            "poster": "https://www.marvel-cineverse.fr/medias/images/whatif203.jpg"
+        },
+        {
+            "title": "Captain America : Le Soldat de l’Hiver",
+            "poster": "https://image.tmdb.org/t/p/w500/6kbAMLteGO8yyewYau6bJ683sw7.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 1 - Épisodes 17 à 22",
+            "poster": "https://fr.web.img6.acsta.net/pictures/18/12/04/11/27/1113000.jpg"
+        },
+        {
+            "title": "Les Gardiens de la Galaxie",
+            "poster": "https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg"
+        },
+        {
+            "title": "What If Et si... Nebula avait rejoint les cohortes de Nova ?",
+            "poster": "https://www.marvel-cineverse.fr/medias/images/whatif201.jpg"
+        },
+        {
+            "title": "Les Gardiens de la Galaxie Vol. 2",
+            "poster": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
+        },
+        {
+            "title": "What If Et si.. Saison 3 Episode 4",
+            "poster": "https://www.superpouvoir.com/wp-content/uploads/2024/12/howard-and-darcy-running-in-what-if-season-3-episode-41.jpg"
+        },
+        {
+            "title": "What If Et si… Peter Quill avait attaqué les plus grands héros de la Terre ?",
+            "poster": "https://www.marvel-cineverse.fr/medias/images/whatif202-review.png"
+        },
+        {
+            "title": "Je S’appelle Groot Saison 1 & 2",
+            "poster": "https://fr.web.img2.acsta.net/pictures/22/07/15/09/00/5294855.jpg"
+        },
+        {
+            "title": "Daredevil Saison 1",
+            "poster": "https://fr.web.img4.acsta.net/c_310_420/pictures/18/09/21/10/40/4030980.jpg"
+        },
+        {
+            "title": "Jessica Jones Saison 1",
+            "poster": "https://www.cinechronicle.com/wp-content/uploads/2015/12/Jessica-Jones-affiche.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 2 - Épisodes 1 à 19",
+            "poster": "https://fr.web.img4.acsta.net/pictures/14/09/20/12/32/433617.jpg"
+        },
+        {
+            "title": "What If Et si… Le Gardien avait rompu son serment ?",
+            "poster": "https://www.marvel-cineverse.fr/medias/images/whatif109.jpg"
+        },
+        {
+            "title": "Avengers : L’Ère d’Ultron",
+            "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
+        },
+        {
+            "title": "What If Et si… Ultron avait gagné ?",
+            "poster": "https://3238leblogdemarvelll-1278.kxcdn.com/wp-content/uploads/2021/10/marvel-studios-what-if-ultravision-ultron-574x850.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 2 - Épisodes 20 à 22",
+            "poster": "https://fr.web.img4.acsta.net/pictures/14/09/20/12/32/433617.jpg"
+        },
+        {
+            "title": "WHiH Newsfront Saison 1 - Webisodes 1 à 5",
+            "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuF1TusdraRmlJzrI61INuXBEZl7.jpg"
+        },
+        {
+            "title": "Ant-Man",
+            "poster": "https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg"
+        },
+        {
+            "title": "Spider-Man : Freshman Year Saison 1",
+            "poster": "https://images.justwatch.com/poster/324535563/s718/saison-1.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 3 - Épisodes 1 à 19",
+            "poster": "https://fr.web.img6.acsta.net/pictures/15/09/17/22/14/347308.jpg"
+        },
+        {
+            "title": "Spider-Man : Sophomore Year Saison 2",
+            "poster": "https://i.redd.it/8ivmf3akj36a1.jpg"
+        }
+    ],
+    "Phase 3": [
+        {
+            "title": "WHiH Newsfront Saison 1 - Webisodes 6 à 10",
+            "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuF1TusdraRmlJzrI61INuXBEZl7.jpg"
+        },
+        {
+            "title": "Daredevil Saison 2",
+            "poster": "https://www.marvel-cineverse.fr/medias/images/daredevil-season-2-trio-poster.png"
+        },
+        {
+            "title": "Luke Cage Saison 1",
+            "poster": "https://fr.web.img2.acsta.net/pictures/16/08/10/16/54/061070.jpg"
+        },
+        {
+            "title": "Iron Fist Saison 1",
+            "poster": "https://fr.web.img6.acsta.net/pictures/17/03/14/13/56/046195.jpg"
+        },
+        {
+            "title": "The Defenders Saison 1",
+            "poster": "https://fr.web.img3.acsta.net/pictures/17/08/02/11/29/308083.jpg"
+        },
+        {
+            "title": "Cloak and Dagger Saison 1",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTU4NzU2OTc5NF5BMl5BanBnXkFtZTgwMDg3MzA0NzM@._V1_.jpg"
+        },
+        {
+            "title": "WHiH Newsfront Saison 2",
+            "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fl9d7pEGy1R3aj7XlA7OdV8jVy0P.jpg"
+        },
+        {
+            "title": "Captain America Civil Wars",
+            "poster": "https://fr.web.img5.acsta.net/pictures/16/03/11/09/46/182814.jpg"
+        },
+        {
+            "title": "One shot Team Thor 1",
+            "poster": "https://image.tmdb.org/t/p/w500/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg"
+        },
+        {
+            "title": "A Film by Peter Parker",
+            "poster": "https://i.ytimg.com/vi/3uZ7r-dpk_g/hqdefault.jpg"
+        },
+        {
+            "title": "Black Widow",
+            "poster": "https://fr.web.img2.acsta.net/pictures/21/06/30/13/37/5245550.jpg"
+        },
+        {
+            "title": "Black Panther",
+            "poster": "https://fr.web.img2.acsta.net/pictures/17/10/16/15/40/0883250.jpg"
+        },
+        {
+            "title": "What If Et si… T’Challa était devenu Star Lord",
+            "poster": "https://lh5.googleusercontent.com/proxy/WivYm8DNeo_aCF9Rpzm9-_KNBmL03zICcbgN4Qr89aO20YkTQUk73wr4H36TB9BhS8N9o8Lk7tNq76itrr_tVaI3mQZqx1HG6DJWaUYBkb58h-eW6ousQ5aF11a6eoE"
+        },
+        {
+            "title": "Spider-Man Homecoming",
+            "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 3 - Épisodes 20 à 22",
+            "poster": "https://fr.web.img6.acsta.net/pictures/15/09/17/22/14/347308.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 4 - Épisodes 1 à 8",
+            "poster": "https://m.media-amazon.com/images/I/81wiqtQFD+L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 4 - Épisodes 9 à 22",
+            "poster": "https://m.media-amazon.com/images/I/81wiqtQFD+L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "title": "The Punisher Saison 1",
+            "poster": "https://fr.web.img3.acsta.net/pictures/17/09/15/14/37/5707266.jpg"
+        },
+        {
+            "title": "Deadpool",
+            "poster": "https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg"
+        },
+        {
+            "title": "Deadpool 2",
+            "poster": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg"
+        },
+        {
+            "title": "Les Nouveaux Mutants",
+            "poster": "https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg"
+        },
+        {
+            "title": "Logan",
+            "poster": "https://image.tmdb.org/t/p/w500/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+        },
+        {
+            "title": "Doctor Strange",
+            "poster": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg"
+        },
+        {
+            "title": "What If Et si… Doctor Strange avait perdu son coeur au lieu de ses mains ?",
+            "poster": "https://www.marvel-cineverse.fr/medias/images/whatif104-1.jpg"
+        },
+        {
+            "title": "The Gifted Saison 1",
+            "poster": "https://resizing.flixster.com/L8cXmMcisGYpOmY0_8l4JqgjiUE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14136089_b_v13_ac.jpg"
+        }
+    ],
+    "Phase 4": [
+        {
+            "title": "One shot Team Thor 2",
+            "poster": "https://image.tmdb.org/t/p/w500/9Vt1OLu3BrKy1IQFK3QyzpR1LVm.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 5 - Épisodes 1 à 18",
+            "poster": "https://fr.web.img3.acsta.net/pictures/17/11/30/16/48/3539856.jpg"
+        },
+        {
+            "title": "Inhumans Saison 1",
+            "poster": "https://i.redd.it/svhmydfz52xb1.jpg"
+        },
+        {
+            "title": "Jessica Jones Saison 2",
+            "poster": "https://geek-mexicain.net/thumbs/730x350c/p/critique-jessica-jones-saison-2/1521220443_default.jpg"
+        },
+        {
+            "title": "Luke Cage Saison 2",
+            "poster": "https://www.marvel-cineverse.fr/medias/images/luke-cage-season-2-poster.jpg"
+        },
+        {
+            "title": "Iron Fist Saison 2",
+            "poster": "https://fr.web.img3.acsta.net/pictures/18/09/01/13/34/4940123.jpg"
+        },
+        {
+            "title": "Daredevil Saison 3",
+            "poster": "https://www.ecranlarge.com/content/uploads/2018/10/daredevil-saison-3-photo-daredevil-1038349.jpg"
+        },
+        {
+            "title": "Cloak Dagger Saison 2",
+            "poster": "https://fr.web.img5.acsta.net/r_1280_720/pictures/18/08/13/16/00/3296572.jpg"
+        },
+        {
+            "title": "Thor Ragnarok",
+            "poster": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
+        },
+        {
+            "title": "Team Darryl",
+            "poster": "https://image.tmdb.org/t/p/w500/axlLFvTfV4W8zbWby7H4vf1vMPq.jpg"
+        },
+        {
+            "title": "The Gifted Saison 2",
+            "poster": "https://fr.web.img5.acsta.net/pictures/18/09/03/09/09/2182597.jpg"
+        },
+        {
+            "title": "The Punisher Saison 2",
+            "poster": "https://images.justwatch.com/poster/291192931/s718/saison-2.jpg"
+        },
+        {
+            "title": "Jessica Jones Saison 3",
+            "poster": "https://fr.web.img2.acsta.net/pictures/19/06/07/09/21/3606677.jpg"
+        },
+        {
+            "title": "Runaways Saison 3 Episode 1 à 9",
+            "poster": "https://fr.web.img5.acsta.net/pictures/19/10/01/09/24/3396751.jpg"
+        },
+        {
+            "title": "Ant-Man et la Guêpe",
+            "poster": "https://image.tmdb.org/t/p/w500/cFQEO687n1K6umXbInzocxcnAQz.jpg"
+        },
+        {
+            "title": "Avengers Infinity War",
+            "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+        },
+        {
+            "title": "What If Et si… Les Avengers se rassemblent en 1602 ?",
+            "poster": "https://cosmicbook.news/wp-content/uploads/2023/12/what-if-avengers-1602-review.jpg"
+        },
+        {
+            "title": "What If Et si.. Saison 3 Episode 6",
+            "poster": "https://www.superpouvoir.com/wp-content/uploads/2024/12/shang-chia-nd-kate-on-train-in-in-what-if-season-3-episode-61.jpg"
+        },
+        {
+            "title": "What If Et si…Saison 1 episode 5",
+            "poster": "https://www.ecranlarge.com/content/uploads/2021/09/what-if-photo-1395017.jpg"
+        },
+        {
+            "title": "What If Et si.. Saison 3 Episode 7",
+            "poster": "https://www.superpouvoir.com/wp-content/uploads/2024/12/storm-wielding-mjolnir-in-what-if-season-3-episode-71.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 5 - Épisodes 19 à 22",
+            "poster": "https://fr.web.img3.acsta.net/pictures/17/11/30/16/48/3539856.jpg"
+        },
+        {
+            "title": "Venom",
+            "poster": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg"
+        },
+        {
+            "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 6 & 7",
+            "poster": "https://fr.web.img6.acsta.net/pictures/20/04/27/09/31/5224933.jpg"
+        },
+        {
+            "title": "Helstrom Saison 1",
+            "poster": "https://fr.web.img2.acsta.net/pictures/20/09/24/10/37/1096545.jpg"
+        },
+        {
+            "title": "Runaways Saison 3 Episode 10",
+            "poster": "https://fr.web.img5.acsta.net/pictures/19/10/01/09/24/3396751.jpg"
+        }
+    ],
+    "Phase 5": [
+        {
+            "title": "Loki Saison 1",
+            "poster": "https://fr.web.img5.acsta.net/pictures/21/03/18/18/09/5179510.jpg"
+        },
+        {
+            "title": "Wanda Vision Saison 1",
+            "poster": "https://fr.web.img4.acsta.net/pictures/20/12/11/10/34/0902853.jpg"
+        },
+        {
+            "title": "Spider-Man into the Spider-Verse",
+            "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+        },
+        {
+            "title": "Spider-ham caught in a ham",
+            "poster": "https://image.tmdb.org/t/p/w500/5bP3vup3GvsCtTyng46UhNl6PG0.jpg"
+        },
+        {
+            "title": "Légion Saison 1 & 2 & 3",
+            "poster": "https://miro.medium.com/v2/resize:fit:1200/1*gWPa6fDPU42hi0pIrT15vg.png"
+        },
+        {
+            "title": "Le Faucon et le Soldat de l’Hiver Saison 1",
+            "poster": "https://fr.web.img5.acsta.net/pictures/21/03/08/16/39/1429576.jpg"
+        },
+        {
+            "title": "Shang-Chi et la légende des Dix Anneaux",
+            "poster": "https://image.tmdb.org/t/p/w500/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg"
+        },
+        {
+            "title": "What If Saison 2 Episode 7",
+            "poster": "https://i.ytimg.com/vi/-MnD1c2305o/maxresdefault.jpg"
+        },
+        {
+            "title": "The Daily Bugle Saison 1",
+            "poster": "https://media.senscritique.com/media/000020568590/0/the_daily_bugle.jpg"
+        },
+        {
+            "title": "Les Eternels",
+            "poster": "https://fr.web.img6.acsta.net/pictures/21/10/13/10/33/5985249.jpg"
+        },
+        {
+            "title": "What If Et si.. Saison 3 Episode 5",
+            "poster": "https://www.superpouvoir.com/wp-content/uploads/2024/12/white-vision-attacking-resistance-in-what-if-season-3-episode-51.jpg"
+        },
+        {
+            "title": "La liste des courses de Peter",
+            "poster": "https://www.chroniquedisney.fr/imgFiliale/marvel/2019-peter-to-do-list-01.jpg"
+        },
+        {
+            "title": "Marvel Modok",
+            "poster": "https://image.tmdb.org/t/p/w500/2kXRzRjQZs9kAIm3K9MkQgsZR9C.jpg"
+        },
+        {
+            "title": "Spider-Man Far From Home",
+            "poster": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg"
+        },
+        {
+            "title": "Spider-Man Now Way Home",
+            "poster": "https://fr.web.img4.acsta.net/pictures/21/11/16/10/01/4860598.jpg"
+        },
+        {
+            "title": "Venom 2",
+            "poster": "https://fr.web.img2.acsta.net/pictures/21/09/01/11/19/0900123.jpg"
+        },
+        {
+            "title": "Morbius",
+            "poster": "https://image.tmdb.org/t/p/w500/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg"
+        },
+        {
+            "title": "Hit Monkey",
+            "poster": "https://image.tmdb.org/t/p/w500/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg"
+        },
+        {
+            "title": "The Daily Bugle Saison 2 & 3",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYzJkMTQ1NjAtMDlkZi00YzM5LTljMmYtZDJkYmJmY2NiOTljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "poster": "https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg"
+        },
+        {
+            "title": "Agatha All Along",
+            "poster": "https://image.tmdb.org/t/p/w500/rwfDv05ck4McdvqdWU2sQVsQV2j.jpg"
+        },
+        {
+            "title": "Vision Quest",
+            "poster": "https://i.ytimg.com/vi/fZzCa2JTb5c/maxresdefault.jpg"
+        },
+        {
+            "title": "Hawkeye Saison 1",
+            "poster": "https://fr.web.img6.acsta.net/pictures/21/11/15/14/14/2908697.jpg"
+        },
+        {
+            "title": "Echo Saison 1",
+            "poster": "https://images.justwatch.com/poster/322027475/s718/saison-1.jpg"
+        },
+        {
+            "title": "Daredevil: Born Again (Saison 1 et 2)",
+            "poster": "https://fr.web.img6.acsta.net/img/8c/6c/8c6c4659ab0bc0764f06e2bf7c487d05.jpg"
+        },
+        {
+            "title": "Moon Knight Saison 1",
+            "poster": "https://fr.web.img6.acsta.net/pictures/22/01/24/10/28/2306033.jpg"
+        },
+        {
+            "title": "She Hulk Avocate Saison 1",
+            "poster": "https://www.comicsblog.fr/images/editeur/Arno/Aout%202022/She-Hulk-poster-1.jpeg"
+        },
+        {
+            "title": "Miss Marvel Saison 1",
+            "poster": "https://fr.web.img5.acsta.net/c_300_300/pictures/22/05/30/09/50/2100167.jpg"
+        },
+        {
+            "title": "Thor: Love and Thunder",
+            "poster": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"
+        },
+        {
+            "title": "Black Panther Wakanda Forever",
+            "poster": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
+        },
+        {
+            "title": "Spider-Man Across the Spider-Verse",
+            "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+        },
+        {
+            "title": "Spider-Man Beyond the Spider-Verse",
+            "poster": "https://image.tmdb.org/t/p/w500/rZ4arzyaDyI8l9Y7VIPPsDGARwh.jpg"
+        },
+        {
+            "title": "Moon Girl et Devil le Dinosaure Saison 1",
+            "poster": "https://fr.web.img4.acsta.net/pictures/23/01/16/09/45/5577632.jpg"
+        },
+        {
+            "title": "WereWolf by Night",
+            "poster": "https://image.tmdb.org/t/p/w500/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg"
+        },
+        {
+            "title": "Les Gardiens de la Galaxie : Joyeuses Fêtes",
+            "poster": "https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg"
+        }
+    ],
+    "Phase 6": [
+        {
+            "title": "Ant-Man et la Guêpe Quantumania",
+            "poster": "https://image.tmdb.org/t/p/w500/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg"
+        },
+        {
+            "title": "Les Gardiens de la Galaxy 3",
+            "poster": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
+        },
+        {
+            "title": "Secret Invasion Saison 1",
+            "poster": "https://fr.web.img2.acsta.net/pictures/23/07/19/11/03/2458963.jpg"
+        },
+        {
+            "title": "The Marvels",
+            "poster": "https://image.tmdb.org/t/p/w500/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg"
+        },
+        {
+            "title": "Loki Saison 2",
+            "poster": "https://fr.web.img6.acsta.net/pictures/23/07/31/16/30/3834309.jpg"
+        },
+        {
+            "title": "What If Et si… le Strange Suprême était intervenu ?",
+            "poster": "https://static.hitek.fr/img/up_m/336638344/whatifphoto1393997large.jpg"
+        },
+        {
+            "title": "What If Et si.. Saison 3 Episode 8",
+            "poster": "https://image.over-blog.com/sM1f-aJ09PZTA7IRuMB_kVUhxv4=/filters:no_upscale()/image%2F1199205%2F20250103%2Fob_dfc74c_whatifs3-teaser-digital-ka-v2-lg.jpg"
+        },
+        {
+            "title": "Deadpool et Wolverine",
+            "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
+        },
+        {
+            "title": "Thunderbolts",
+            "poster": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
+        },
+        {
+            "title": "Wonder Man",
+            "poster": "https://i.ytimg.com/vi/SwnJJAcKmO8/maxresdefault.jpg"
+        },
+        {
+            "title": "The Fantastic Four",
+            "poster": "https://image.tmdb.org/t/p/w500/x26MtUlwtWD26d0G0FXcppxCJio.jpg"
+        }, 
+        {
+            "title": "Spider-Man 4",
+            "poster": "https://image.tmdb.org/t/p/w500/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg"
+        }
+    ]
+    }
+}

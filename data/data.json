@@ -1,5 +1,5 @@
 {
-    "Phase 1": {
+    "Marvel": {
         "Phase 1": [
             {
                 "title": "Captain America: The First Avenger",
@@ -712,5 +712,150 @@
             "poster": "https://image.tmdb.org/t/p/w500/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg"
         }
     ]
+},
+
+
+
+
+    "Star Wars": {
+ 
+
+        "La Haute République": [ 
+
+        {
+            "title": "Young Jedi Adventure",
+            "poster": "https://fr.web.img4.acsta.net/pictures/23/03/29/11/58/3638204.jpg"
+        },
+        {
+            "title": "The Acolyte",
+            "poster": "https://fr.web.img5.acsta.net/c_310_420/img/9c/b7/9cb7f211d16112ed9b5bdab65d67663d.jpg"
+        }],
+
+        "La Chute des Jedis": [
+        {
+            "title": "Episode I: La Menace Fantôme",
+            "poster": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg"
+        },
+        {
+            "title": "Episode II: L’Attaque des Clones",
+            "poster": "https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg"
+        },
+        {
+            "title": "The Clone Wars",
+            "poster": "https://image.tmdb.org/t/p/w500/iJQfixW818LUdSXlCDL3JZm0S0g.jpg"
+        },
+        {
+            "title": "Episode III: La Revanche des Sith",
+            "poster": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg"
+        }],
+        
+        "Le Règne de l'Empire": [
+        {
+            "title": "Maul Shadow Lord",
+            "poster": "https://pbs.twimg.com/media/Go7S4xGXsAATBZM.jpg"
+        },
+        {
+            "title": "Tales of the Empire",
+            "poster": "https://artworks.thetvdb.com/banners/v4/series/448549/posters/6615f0adbc432.jpg"
+        },
+        {
+            "title": "Tales of the Underworld",
+            "poster": "https://fr.web.img2.acsta.net/img/0f/1e/0f1e19b85cb74227609ed801aa2735ba.jpg"
+        },
+        {
+            "title": "The Bad Batch",
+            "poster": "https://fr.web.img2.acsta.net/pictures/21/04/16/12/17/1970181.jpg"
+        },
+        {
+            "title": "Solo: A Star Wars Story",
+            "poster": "https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg"
+        },
+        {
+            "title": "Obi-Wan Kenobi",
+            "poster": "https://image.tmdb.org/t/p/w500/vQGgvXjoMZf8x1m3BHsMxVXPyck.jpg"
+        },
+        {
+            "title": "Andor",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "title": "Star Wars Rebels",
+            "poster": "https://image.tmdb.org/t/p/w500/cx9lBBCtH0FJSmvgOlKTvETu0so.jpg"
+        },
+        {
+            "title": "Rogue One: A Star Wars Story",
+            "poster": "https://image.tmdb.org/t/p/w500/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg"
+        }],
+        
+        "L'Ere de la Rébellion": [
+        {
+            "title": "Episode IV: Un Nouvel Espoir",
+            "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+        },
+        {
+            "title": "Episode V: L’Empire Contre-Attaque",
+            "poster": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg"
+        },
+        {
+            "title": "Episode VI: Le Retour du Jedi",
+            "poster": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg"
+        }],
+        
+        "La Nouvelle République": [
+        {
+            "title": "The Mandalorian",
+            "poster": "https://fr.web.img5.acsta.net/pictures/23/02/02/08/50/0382923.jpg"
+        },
+        {
+            "title": "Le Livre de Boba Fett",
+            "poster": "https://fr.web.img5.acsta.net/pictures/21/11/01/19/55/0179288.jpg"
+        },
+        {
+            "title": "Ahsoka",
+            "poster": "https://image.tmdb.org/t/p/w500/dwfKVkcBhfCawQXk9yDaVZ68cQ0.jpg"
+        },
+        {
+            "title": "Skeleton crew",
+            "poster": "https://m.media-amazon.com/images/M/MV5BN2VlZjA3ZTktODEzNC00ZDhlLWExMTQtZmZkNjRhNWJhMWNkXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+            "title": "The Mandalorian & Grogu",
+            "poster": "https://image.tmdb.org/t/p/w500/1BgydH2LQcbpfy4ytTu9nbV85sV.jpg"
+        },
+        {
+            "title": "Film de Dave Filoni",
+            "poster": "https://cdn-media.planete-starwars.com/news/83640-dave-169-lg.jpg"
+        }],
+        
+        "L'Ascension du Premier Ordre": [
+        {
+            "title": "Star Wars Résistance",
+            "poster": "https://fr.web.img3.acsta.net/pictures/18/08/29/09/57/0155647.jpg"
+        },
+        {
+            "title": "Episode VII: Le Réveil de la Force",
+            "poster": "https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg"
+        },
+        {
+            "title": "Episode VIII: Les Derniers Jedi",
+            "poster": "https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg"
+        },
+        {
+            "title": "Episode IX: L’Ascension de Skywalker",
+            "poster": "https://image.tmdb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg"
+        }],
+        
+        "Le Nouvel Ordre Jedi": [
+        {
+            "title": "Star Wars Star Fighter",
+            "poster": "https://poster.gsc.com.my/2025/250420_StarWarsStarfighter_big.jpg"
+        },
+        {
+            "title": "Film de Sharmeen Obaid-Chinoy",
+            "poster": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-04/230411-sharmeen-obaid-chinoy-mn-1125-c6aeff.jpg"
+        }
+        ]
     }
 }
+
+   

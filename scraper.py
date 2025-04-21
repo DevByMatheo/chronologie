@@ -1,3 +1,4 @@
+"""
 import requests
 import json
 
@@ -262,3 +263,77 @@ with open("marvel_movies_posters.json", "w", encoding="utf-8") as f:
     json.dump(phases, f, ensure_ascii=False, indent=4)
 
 print("Le fichier JSON a été créé avec succès.")
+"""
+
+import requests
+import json
+
+API_KEY = "ebbcc734fc96cfc0930e5635cf9c5c65"
+BASE_URL = "https://api.themoviedb.org/3"
+
+def get_poster_url(title):
+    search_url = f"{BASE_URL}/search/movie"
+    params = {
+        "api_key": API_KEY,
+        "query": title
+    }
+    response = requests.get(search_url, params=params)
+    data = response.json()
+    results = data.get("results")
+    
+    if results:
+        poster_path = results[0].get("poster_path")
+        if poster_path:
+            return f"https://image.tmdb.org/t/p/w500{poster_path}"
+    return None
+
+# Liste des titres
+titles = [
+    "Young Jedi Adventure",
+    "The Acolyte",
+    "Episode I: La Menace Fantôme",
+    "Episode II: L’Attaque des Clones",
+    "The Clone Wars",
+    "Episode III: La Revanche des Sith",
+    "Maul Shadow Lord",
+    "Tales of the Empire",
+    "Tales of the Underworld",
+    "The Bad Batch",
+    "Solo: A Star Wars Story",
+    "Obi-Wan Kenobi",
+    "Andor",
+    "Star Wars Rebels",
+    "Rogue One: A Star Wars Story",
+    "Episode IV: Un Nouvel Espoir",
+    "Episode V: L’Empire Contre-Attaque",
+    "Episode VI: Le Retour du Jedi",
+    "The Mandalorian",
+    "Le Livre de Boba Fett",
+    "Ahsoka",
+    "Skeleton crew",
+    "The Mandalorian & Grogu",
+    "Film de Dave Filoni",
+    "Star Wars Résistance",
+    "Episode VII: Le Réveil de la Force",
+    "Episode VIII: Les Derniers Jedi",
+    "Episode IX: L’Ascension de Skywalker",
+    "Star Wars Star Fighter",
+    "Film de Sharmeen Obaid-Chinoy"
+]
+
+
+# Construction du JSON
+movies_data = []
+
+for title in titles:
+    poster_url = get_poster_url(title)
+    movies_data.append({
+        "title": title,
+        "poster": poster_url if poster_url else "Poster non trouvé"
+    })
+
+# Sauvegarde en JSON
+with open("./data/starwars.json", "w", encoding="utf-8") as f:
+    json.dump(movies_data, f, ensure_ascii=False, indent=4)
+
+print("✅ JSON généré avec succès !")

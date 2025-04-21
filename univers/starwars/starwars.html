@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <link rel="stylesheet" href="marvel.css">
-    <title>Chronologie Marvel</title>
+    <link rel="stylesheet" href="starwars.css">
+    <title>Chronologie Star Wars</title>
 
 </head>
 
 <body>
     <a href="../../index.html" class="back-button">⬅️ Retour à l'accueil</a>
-    <h1>Chronologie Marvel</h1>
+    <h1>Chronologie Star Wars</h1>
     
     <div id="content"></div>
 
@@ -18,7 +18,7 @@
         fetch('../../data/data.json')
         .then(response => response.json())
         .then(data => {
-            const phase = data["Marvel"];
+            const phase = data["Star Wars"];
             const content = document.getElementById('content');
 
             Object.entries(phase).forEach(([period, films]) => {

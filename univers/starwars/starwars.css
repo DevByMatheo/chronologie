@@ -62,3 +62,48 @@ h2 {
   background-color: #444;
   color: #ffffff;
 }
+
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.tab-button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #444;
+  color: white;
+  border-radius: 8px;
+}
+
+.tab-button.active {
+  background-color: #fbbf24; /* jaune SW */
+  color: black;
+}
+
+.sub-tabs {
+  margin: 1em 0;
+  text-align: center;
+}
+
+.sub-tab-button {
+  margin: 0 5px;
+  padding: 0.5em 1em;
+  background-color: #2c2c2c;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.sub-tab-button.active {
+  background-color: #ffd700;
+  color: black;
+}
+
+

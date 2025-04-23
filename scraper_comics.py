@@ -121,7 +121,7 @@ def scrape_all_pages(base_url, total_pages):
 
 # URL de la première page à scraper
 base_url = "https://www.senscritique.com/liste/star_wars_integrale_chronologique_de_l_univers_etendu_canon/1619248"
-total_pages = 5  # Nombre de pages à scraper
+total_pages = 117  # Nombre de pages à scraper
 
 # Scraper toutes les pages
 scrape_all_pages(base_url, total_pages)

@@ -3,61 +3,127 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <link rel="stylesheet" href="marvel.css">
+    <link rel="stylesheet" href="../all.css">
     <title>Chronologie Marvel</title>
-
 </head>
 
 <body>
     <a href="../../index.html" class="back-button">⬅️ Retour à l'accueil</a>
     <h1>Chronologie Marvel</h1>
-    
+
+    <!-- Onglets principaux -->
+    <div class="tabs">
+        <button onclick="showSection('films')" class="tab-button active">Cinématographique</button>
+        <button onclick="showSection('comics')" class="tab-button">Comics</button>
+    </div>
+
     <div id="content"></div>
 
     <script>
-        fetch('../../data/data.json')
-        .then(response => response.json())
-        .then(data => {
-            const phase = data["Marvel"];
+        let filmsData = null;
+        let comicsData = null;
+        let currentSection = 'films';
+    
+        function showSection(type) {
+            currentSection = type;
+            document.getElementById('content').innerHTML = "";
+    
+            // Mise à jour des onglets actifs
+            document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+            document.querySelector(`.tab-button[onclick="showSection('${type}')"]`).classList.add('active');
+    
+            const sectionData = type === 'films' 
+                ? filmsData?.["Marvel"] 
+                : comicsData;
+    
+            renderSection(sectionData);
+        }
+    
+        function renderSection(sectionData) {
             const content = document.getElementById('content');
-
-            Object.entries(phase).forEach(([period, films]) => {
-            const periodDiv = document.createElement('div');
-            periodDiv.className = 'period';
-
-            const title = document.createElement('h2');
-            title.textContent = period;
-            periodDiv.appendChild(title);
-
-            const gallery = document.createElement('div');
-            gallery.className = 'gallery';
-
-            films.forEach(film => {
-                const movieDiv = document.createElement('div');
-                movieDiv.className = 'movie';
-
-                const img = document.createElement('img');
-                img.src = film.poster !== "Poster non disponible"
-                ? film.poster
-                : "https://via.placeholder.com/150x225?text=Pas+de+poster";
-
-                const movieTitle = document.createElement('div');
-                movieTitle.className = 'movie-title';
-                movieTitle.textContent = film.title;
-
-                movieDiv.appendChild(img);
-                movieDiv.appendChild(movieTitle);
-                gallery.appendChild(movieDiv);
-            });
-
-            periodDiv.appendChild(gallery);
-            content.appendChild(periodDiv);
-            });
+            content.innerHTML = "";
+    
+            if (!sectionData) {
+                content.innerHTML = "<p>Données non disponibles.</p>";
+                return;
+            }
+    
+            // Cas 1 : tableau direct (comics Marvel)
+            if (Array.isArray(sectionData)) {
+                const gallery = document.createElement('div');
+                gallery.className = 'gallery';
+    
+                sectionData.forEach(item => {
+                    const itemDiv = document.createElement('div');
+                    itemDiv.className = 'movie';
+    
+                    const img = document.createElement('img');
+                    img.src = item.poster && item.poster !== "Poster non disponible"
+                        ? item.poster
+                        : "https://via.placeholder.com/150x225?text=Pas+de+poster";
+    
+                    const itemTitle = document.createElement('div');
+                    itemTitle.className = 'movie-title';
+                    itemTitle.textContent = item.title;
+    
+                    itemDiv.appendChild(img);
+                    itemDiv.appendChild(itemTitle);
+                    gallery.appendChild(itemDiv);
+                });
+    
+                content.appendChild(gallery);
+            }
+    
+            // Cas 2 : objets groupés (films Marvel par phases)
+            else {
+                Object.entries(sectionData).forEach(([period, items]) => {
+                    const periodDiv = document.createElement('div');
+                    periodDiv.className = 'period';
+    
+                    const title = document.createElement('h2');
+                    title.textContent = period;
+                    periodDiv.appendChild(title);
+    
+                    const gallery = document.createElement('div');
+                    gallery.className = 'gallery';
+    
+                    items.forEach(item => {
+                        const itemDiv = document.createElement('div');
+                        itemDiv.className = 'movie';
+    
+                        const img = document.createElement('img');
+                        img.src = item.poster && item.poster !== "Poster non disponible"
+                            ? item.poster
+                            : "https://via.placeholder.com/150x225?text=Pas+de+poster";
+    
+                        const itemTitle = document.createElement('div');
+                        itemTitle.className = 'movie-title';
+                        itemTitle.textContent = item.title;
+    
+                        itemDiv.appendChild(img);
+                        itemDiv.appendChild(itemTitle);
+                        gallery.appendChild(itemDiv);
+                    });
+    
+                    periodDiv.appendChild(gallery);
+                    content.appendChild(periodDiv);
+                });
+            }
+        }
+    
+        // Chargement des fichiers JSON
+        Promise.all([
+            fetch('../../data/data.json').then(res => res.json()).then(data => filmsData = data),
+            fetch('../../data/comics_data.json').then(res => res.json()).then(data => comicsData = data["Comics"]["Marvel"])
+        ])
+        .then(() => {
+            showSection('films'); // Vue par défaut
         })
         .catch(error => {
-            console.error("Erreur lors du chargement du JSON :", error);
-            document.getElementById('content').innerHTML = "<p>Impossible de charger la chronologie.</p>";
+            console.error("Erreur lors du chargement des données JSON :", error);
+            document.getElementById('content').innerHTML = "<p>Erreur de chargement des données.</p>";
         });
     </script>
+    
 </body>
 </html>

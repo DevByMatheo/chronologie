@@ -840,8 +840,87 @@
             "title": "Film de Sharmeen Obaid-Chinoy",
             "poster": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-04/230411-sharmeen-obaid-chinoy-mn-1125-c6aeff.jpg"
         }
+    ]
+},
+
+
+
+
+    "Predator": {
+ 
+
+        "Predator": [ 
+
+        {
+            "title": "Predator Dark Age",
+            "poster": "https://image.tmdb.org/t/p/w500/ypc5mgbHx1qfEMejJwdcDOfVwjm.jpg"
+        },
+        {
+            "title": "Prey",
+            "poster": "https://image.tmdb.org/t/p/w500/h58U7d1OZyuWaCWMYvw4mfnv6H3.jpg"
+        },
+        {
+            "title": "Predator",
+            "poster": "https://image.tmdb.org/t/p/w500/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg"
+        },
+        {
+            "title": "Predator 2",
+            "poster": "https://image.tmdb.org/t/p/w500/83X4VwY9sdSJykskmsplIVG0a4h.jpg"
+        },
+        {
+            "title": "Alien vs Predator",
+            "poster": "https://image.tmdb.org/t/p/w500/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg"
+        },
+        {
+            "title": "Alien vs Predator Requiem",
+            "poster": "https://image.tmdb.org/t/p/w500/jCyJN1vj8jqJJ0vNw4hDH2KlySO.jpg"
+        },
+        {
+            "title": "Le Predator (2018)",
+            "poster": "https://fr.web.img6.acsta.net/pictures/18/08/22/15/28/2875808.jpg"
+        },
+        {
+            "title": "Predators (2010)",
+            "poster": "https://fr.web.img3.acsta.net/medias/nmedia/18/76/61/34/19472929.jpg"
+        },
+        {
+            "title": "Blade Runner",
+            "poster": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg"
+        },
+        {
+            "title": "Soldier",
+            "poster": "https://image.tmdb.org/t/p/w500/rYy5m4nnjdlvB6dyGkP9ELZbUZz.jpg"
+        },
+        {
+            "title": "Blade Runner 2049",
+            "poster": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+        },
+        {
+            "title": "Prometheus",
+            "poster": "https://image.tmdb.org/t/p/w500/m7nZCtHJyDLncBUarfM5h5mrppx.jpg"
+        },
+        {
+            "title": "Alien Covenant",
+            "poster": "https://image.tmdb.org/t/p/w500/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg"
+        },
+        {
+            "title": "Alien",
+            "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
+        },
+        {
+            "title": "Aliens Le retour",
+            "poster": "https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg"
+        },
+        {
+            "title": "Alien 3",
+            "poster": "https://fr.web.img3.acsta.net/pictures/17/06/29/12/09/200767.jpg"
+        },
+        {
+            "title": "Alien Resurrection",
+            "poster": "https://image.tmdb.org/t/p/w500/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg"
+        }
         ]
+        }
     }
-}
    
    

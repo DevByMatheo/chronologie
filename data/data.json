@@ -4,7 +4,7 @@
             {
                 "title": "Captain America: The First Avenger",
                 "poster": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg"
-            }, 
+            },
             {
                 "title": "Agent Carter Saison 1 & 2",
                 "poster": "https://fr.web.img6.acsta.net/pictures/14/12/18/15/16/182414.jpg"
@@ -704,9 +704,9 @@
 
 
     "Star Wars": {
- 
 
-        "La Haute République": [ 
+
+        "La Haute République": [
 
         {
             "title": "Young Jedi Adventure",
@@ -734,7 +734,7 @@
             "title": "Episode III: La Revanche des Sith",
             "poster": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg"
         }],
-        
+
         "Le Règne de l'Empire": [
         {
             "title": "Maul Shadow Lord",
@@ -772,7 +772,7 @@
             "title": "Rogue One: A Star Wars Story",
             "poster": "https://image.tmdb.org/t/p/w500/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg"
         }],
-        
+
         "L'Ere de la Rébellion": [
         {
             "title": "Episode IV: Un Nouvel Espoir",
@@ -786,7 +786,7 @@
             "title": "Episode VI: Le Retour du Jedi",
             "poster": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg"
         }],
-        
+
         "La Nouvelle République": [
         {
             "title": "The Mandalorian",
@@ -812,7 +812,7 @@
             "title": "Film de Dave Filoni",
             "poster": "https://cdn-media.planete-starwars.com/news/83640-dave-169-lg.jpg"
         }],
-        
+
         "L'Ascension du Premier Ordre": [
         {
             "title": "Star Wars Résistance",
@@ -830,7 +830,7 @@
             "title": "Episode IX: L’Ascension de Skywalker",
             "poster": "https://image.tmdb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg"
         }],
-        
+
         "Le Nouvel Ordre Jedi": [
         {
             "title": "Star Wars Star Fighter",
@@ -847,9 +847,9 @@
 
 
     "Predator": {
- 
 
-        "Predator": [ 
+
+        "Predator": [
 
         {
             "title": "Predator Dark Age",
@@ -920,7 +920,61 @@
             "poster": "https://image.tmdb.org/t/p/w500/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg"
         }
         ]
-        }
-    }
-   
-   
+},
+    "Avatar": {
+        "Avatar":[
+                {
+                    "title": "Avatar",
+                    "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg"
+                },
+                {
+                    "title": "Avatar: La Voie de l'eau",
+                    "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+                },
+                {
+                    "title": "Avatar 3",
+                    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDdFxksDMkUJjZXd00OKJfwXKre.jpg  "
+                },
+                {
+                    "title": "Avatar 4",
+                    "poster": "https://image.tmdb.org/t/p/w500/qzMYKnT4MG1d0gnhwytr4cKhUvS.jpg"
+                },
+                {
+                    "title": "Avatar 5",
+                    "poster": "https://image.tmdb.org/t/p/w500/rtmmvqkIC5zDMEd638Es2woxbz8.jpg"
+                }
+            ]},
+            "Hobbit": {
+                "Hobbit":[
+                    {
+                        "title": "Le Seigneur des Anneaux : Les Anneaux de Pouvoir",
+                        "poster": "Poster non trouvé"
+                    },
+                    {
+                        "title": "Le Hobbit : Un voyage inattendu (2012)",
+                        "poster": "Poster non trouvé"
+                    },
+                    {
+                        "title": "Le Hobbit : La Désolation de Smaug (2013)",
+                        "poster": "https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg"
+                    },
+                    {
+                        "title": "Le Hobbit : La Bataille des Cinq Armées (2014)",
+                        "poster": "https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg"
+                    },
+                    {
+                        "title": "Le Seigneur des Anneaux : La Communauté de l'Anneau (2001)",
+                        "poster": "Poster non trouvé"
+                    },
+                    {
+                        "title": "Le Seigneur des Anneaux : Les Deux Tours (2002)",
+                        "poster": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
+                    },
+                    {
+                        "title": "Le Seigneur des Anneaux : Le Retour du Roi (2003)",
+                        "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
+                    }
+                ]
+}
+
+}

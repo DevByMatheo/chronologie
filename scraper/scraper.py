@@ -51,7 +51,7 @@ phases = {
     "2025": [],
     "2026": [],
     "2023": [],
-    "Inconnue": [] 
+    "Inconnue": []
 }
 
 
@@ -61,15 +61,15 @@ def get_poster(title):
         "api_key": API_KEY,
         "query": title
     }
-    
+
     response = requests.get(SEARCH_URL, params=params)
-    
+
     if response.status_code != 200:
         print(f"⚠️ Erreur pour {title} : Status {response.status_code}")
         return None
-    
+
     data = response.json()
-    
+
     if "results" in data and data["results"]:
         poster_path = data["results"][0].get("poster_path")
         if poster_path:
@@ -280,7 +280,7 @@ def get_poster_url(title):
     response = requests.get(search_url, params=params)
     data = response.json()
     results = data.get("results")
-    
+
     if results:
         poster_path = results[0].get("poster_path")
         if poster_path:
@@ -289,24 +289,17 @@ def get_poster_url(title):
 
 # Liste des titres
 titles = [
-    "Predator Dark Age",
-    "Prey",
-    "Predator",
-    "Predator 2",
-    "Alien vs Predator",
-    "Alien vs Predator Requiem",
-    "Le Predator",
-    "Predators",
-    "Blade Runner",
-    "Soldier",
-    "Blade Runner 2049",
-    "Prometheus",
-    "Alien Covenant",
-    "Alien",
-    "Aliens",
-    "Alien 3",
-    "Alien Resurrection"
+    "Le Seigneur des Anneaux : Les Anneaux de Pouvoir",
+    "Le Hobbit : Un voyage inattendu (2012)",
+    "Le Hobbit : La Désolation de Smaug (2013)",
+    "Le Hobbit : La Bataille des Cinq Armées (2014)",
+    "Le Seigneur des Anneaux : La Communauté de l'Anneau (2001)",
+    "Le Seigneur des Anneaux : Les Deux Tours (2002)",
+    "Le Seigneur des Anneaux : Le Retour du Roi (2003)",
+
+
 ]
+
 
 
 # Construction du JSON
@@ -320,7 +313,7 @@ for title in titles:
     })
 
 # Sauvegarde en JSON
-with open("./data/predator.json", "w", encoding="utf-8") as f:
+with open("../data/predator.json", "w", encoding="utf-8") as f:
     json.dump(movies_data, f, ensure_ascii=False, indent=4)
 
 print("✅ JSON généré avec succès !")

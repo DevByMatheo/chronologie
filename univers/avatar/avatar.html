@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="../all.css">
+    <title>Chronologie Avatar</title>
+</head>
+
+<body>
+    <a href="../../index.html" class="back-button">⬅️ Retour à l'accueil</a>
+    <h1>Chronologie Avatar</h1>
+
+    <!-- Onglets principaux -->
+    <div class="tabs">
+        <button onclick="showSection('films')" class="tab-button active">Films</button>
+    </div>
+
+    <div id="content"></div>
+
+    <script>
+        let filmsData = null;
+        let currentSection = 'films';
+
+        function showSection(type) {
+            currentSection = type;
+            document.getElementById('content').innerHTML = "";
+
+            document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+            document.querySelector(`.tab-button[onclick="showSection('${type}')"]`).classList.add('active');
+
+            const sectionData = filmsData?.["Avatar"];
+
+            renderSection(sectionData);
+        }
+
+        function renderSection(sectionData) {
+            const content = document.getElementById('content');
+            content.innerHTML = "";
+
+            if (!sectionData) {
+                content.innerHTML = "<p>Données non disponibles.</p>";
+                return;
+            }
+
+
+            Object.entries(sectionData).forEach(([category, items]) => {
+                const periodDiv = document.createElement('div');
+                periodDiv.className = 'period';
+
+                const title = document.createElement('h2');
+                title.textContent = category;
+                periodDiv.appendChild(title);
+
+                const gallery = document.createElement('div');
+                gallery.className = 'gallery';
+
+                items.forEach(item => {
+                    const itemDiv = document.createElement('div');
+                    itemDiv.className = 'movie';
+
+                    const img = document.createElement('img');
+                    img.src = item.poster && item.poster !== "Poster non disponible"
+                        ? item.poster
+                        : "https://via.placeholder.com/150x225?text=Pas+de+poster";
+
+                    const itemTitle = document.createElement('div');
+                    itemTitle.className = 'movie-title';
+                    itemTitle.textContent = item.title;
+
+                    itemDiv.appendChild(img);
+                    itemDiv.appendChild(itemTitle);
+                    gallery.appendChild(itemDiv);
+                });
+
+                periodDiv.appendChild(gallery);
+                content.appendChild(periodDiv);
+            });
+        }
+
+        // Chargement du fichier JSON
+        fetch('../../data/data.json')
+            .then(res => res.json())
+            .then(data => {
+                filmsData = data;
+                showSection('films'); // Vue par défaut
+            })
+            .catch(error => {
+                console.error("Erreur lors du chargement des données JSON :", error);
+                document.getElementById('content').innerHTML = "<p>Erreur de chargement des données.</p>";
+            });
+    </script>
+
+</body>
+</html>

@@ -310,10 +310,6 @@
         {
             "title": "Marvel : Les Agents du S.H.I.E.L.D. Saison 3 - Épisodes 1 à 19",
             "poster": "https://fr.web.img6.acsta.net/pictures/15/09/17/22/14/347308.jpg"
-        },
-        {
-            "title": "Spider-Man : Sophomore Year Saison 2",
-            "poster": "https://i.redd.it/8ivmf3akj36a1.jpg"
         }
     ],
     "Phase 3": [
@@ -636,6 +632,10 @@
             "poster": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
         },
         {
+            "title": "Iron Heart",
+            "poster": "https://fr.web.img6.acsta.net/img/9d/6e/9d6e542e748864c5e064c428a894f720.jpg"
+        },
+        {
             "title": "Spider-Man Across the Spider-Verse",
             "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
         },
@@ -696,6 +696,20 @@
         {
             "title": "Thunderbolts",
             "poster": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
+        },
+        {
+            "title": "Iron Heart Saison 1",
+            "poster": "https://fr.web.img6.acsta.net/img/9d/6e/9d6e542e748864c5e064c428a894f720.jpg"
+        }
+    ],
+    "Phase 6": [
+        {
+            "title": "The Fantastic Four : First Steps",
+            "poster": "https://fr.web.img4.acsta.net/img/ab/6d/ab6d20991bee70ec660039d1199c8bca.jpg"
+        },
+        {
+            "title": "Eyes of Wakanda Saison 1",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZjhhOTE5ODgtNDFjOS00ZTdlLTgzYjAtNGU1NmM4YzkwYWMxXkEyXkFqcGc@._V1_.jpg"
         }
     ]
 },

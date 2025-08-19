@@ -926,6 +926,10 @@
             "poster": "https://image.tmdb.org/t/p/w500/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg"
         },
         {
+            "title": "Alien Earth",
+            "poster": "https://fr.web.img4.acsta.net/c_210_280/img/48/59/4859c44943741bcd4ce7a3f010f4e48e.jpg"
+        },
+        {
             "title": "Alien",
             "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
         },
@@ -1000,7 +1004,260 @@
                         "title": "Le Seigneur des Anneaux : Le Retour du Roi (2003)",
                         "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
                     }
-                ]
-}
+]},
+    "DC": {
+        "DCU":[
+            {
+                "title": "The Suicide Squad",
+                "poster": "https://media.senscritique.com/media/000021180463/300/the_suicide_squad.png"
+            },            
+            {
+                "title": "Peacemaker saison 1",
+                "poster": "https://www.lescomics.fr/wp-content/uploads/2023/01/peacemaker-300x444.jpg"
+            },            
+            {
+                "title": "Creature Commandos saison 1",
+                "poster": "https://fr.web.img4.acsta.net/img/80/d5/80d58805df6291d0ccb8d940f87cff43.jpg"
+            },            
+            {
+                "title": "Superman",
+                "poster": "https://fr.web.img6.acsta.net/c_310_420/img/97/ca/97ca64f4e5790703d0358c61aa7d1a11.jpg"
+            },            
+            {
+                "title": "Peacemaker saison 2",
+                "poster": "https://m.media-amazon.com/images/M/MV5BZDIyMGU2NTktOTM3YS00OTRjLWJiMmItNDEyNjVhZTZiZGUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+            },            
+            {
+                "title": "Lanterns ",
+                "poster": "https://batman-univers.fr/wp-content/uploads/2024/01/1704869538_James-Gunn-clarifie-la-situation-des-Green-Lantern.jpg"
+            },            
+            {
+                "title": "Supergirl : Woman of Tomorrow",
+                "poster": "https://m.media-amazon.com/images/M/MV5BM2I1NTE2OTktOWNjMC00NTI3LWE5MGMtODhkN2IyY2YxZTM5XkEyXkFqcGc@._V1_.jpg"
+            }
+        ],
+        "DCEU":[      
+            {
+                "title": "wonder woman",
+                "poster": "https://media.senscritique.com/media/000016987131/300/wonder_woman.jpg"
+            },
+            {
+                "title": "wonder woman 1984",
+                "poster": "https://media.senscritique.com/media/000020028869/300/wonder_woman_1984.jpg"
+            },
+            {
+                "title": "man of steel",
+                "poster": "https://media.senscritique.com/media/000005641779/300/man_of_steel.jpg"
+            },
+            {
+                "title": "batman v superman : l'aube de la justice - ultimate edition",
+                "poster": "https://media.senscritique.com/media/000020132865/300/batman_v_superman_l_aube_de_la_justice_ultimate_edition.jpg"
+            },
+            {
+                "title": "suicide squad : extended cut",
+                "poster": "https://media.senscritique.com/media/000019896111/300/suicide_squad_extended_cut.jpg"
+            },
+            {
+                "title": "justice league",
+                "poster": "https://media.senscritique.com/media/000017699355/300/justice_league.jpg"
+            },
+            {
+                "title": "zack snyder's justice league",
+                "poster": "https://media.senscritique.com/media/000020028863/300/zack_snyder_s_justice_league.jpg"
+            },
+            {
+                "title": "aquaman",
+                "poster": "https://media.senscritique.com/media/000018296164/300/aquaman.jpg"
+            },
+            {
+                "title": "shazam!",
+                "poster": "https://media.senscritique.com/media/000018414097/300/shazam.jpg"
+            },
+            {
+                "title": "birds of prey (et la fantabuleuse histoire de harley quinn)",
+                "poster": "https://media.senscritique.com/media/000019181762/300/birds_of_prey_et_la_fantabuleuse_histoire_de_harley_quinn.jpg"
+            },
+            {
+                "title": "the suicide squad",
+                "poster": "https://media.senscritique.com/media/000021180463/300/the_suicide_squad.png"
+            },
+            {
+                "title": "black adam",
+                "poster": "https://media.senscritique.com/media/000020935564/300/black_adam.png"
+            },
+            {
+                "title": "shazam! la rage des dieux",
+                "poster": "https://media.senscritique.com/media/000021224224/300/shazam_la_rage_des_dieux.png"
+            },
+            {
+                "title": "the flash",
+                "poster": "https://media.senscritique.com/media/000021328607/300/the_flash.png"
+            },
+            {
+                "title": "blue beetle",
+                "poster": "https://media.senscritique.com/media/000021517714/300/blue_beetle.png"
+            },
+            {
+                "title": "aquaman et le royaume perdu",
+                "poster": "https://media.senscritique.com/media/000021764588/300/aquaman_et_le_royaume_perdu.png"
+            }
+            ],
+        "DC Universe Animated":[      
+            {
+                "title": "batman : year one",
+                "poster": "https://media.senscritique.com/media/000006421365/300/batman_year_one.jpg"
+            },
+            {
+                "title": "wonder woman",
+                "poster": "https://media.senscritique.com/media/000019853701/300/wonder_woman.jpg"
+            },
+            {
+                "title": "green lantern : le complot",
+                "poster": "https://media.senscritique.com/media/000019854355/300/green_lantern_le_complot.jpg"
+            },
+            {
+                "title": "batman : gotham knight",
+                "poster": "https://media.senscritique.com/media/000009266763/300/batman_gotham_knight.jpg"
+            },
+            {
+                "title": "la ligue des justiciers : nouvelle frontiere",
+                "poster": "https://media.senscritique.com/media/000017697867/300/la_ligue_des_justiciers_nouvelle_frontiere.jpg"
+            },
+            {
+                "title": "green lantern : les chevaliers de l'emeraude",
+                "poster": "https://media.senscritique.com/media/000006421444/300/green_lantern_les_chevaliers_de_l_emeraude.jpg"
+            },
+            {
+                "title": "all-star superman",
+                "poster": "https://media.senscritique.com/media/000006421496/300/all_star_superman.jpg"
+            },
+            {
+                "title": "batman : the killing joke",
+                "poster": "https://media.senscritique.com/media/000016448963/300/batman_the_killing_joke.jpg"
+            },
+            {
+                "title": "superman : le crepuscule d'un dieu",
+                "poster": "https://media.senscritique.com/media/000019847625/300/superman_le_crepuscule_d_un_dieu.jpg"
+            },
+            {
+                "title": "la mort de superman",
+                "poster": "https://media.senscritique.com/media/000017990007/300/la_mort_de_superman.jpg"
+            },
+            {
+                "title": "le regne des supermen",
+                "poster": "https://media.senscritique.com/media/000018372522/300/le_regne_des_supermen.jpg"
+            },
+            {
+                "title": "la ligue des justiciers : echec",
+                "poster": "https://media.senscritique.com/media/000004202450/300/la_ligue_des_justiciers_echec.jpg"
+            },
+            {
+                "title": "superman contre l'elite",
+                "poster": "https://media.senscritique.com/media/000006552043/300/superman_contre_l_elite.jpg"
+            },
+            {
+                "title": "superman / batman : ennemis publics",
+                "poster": "https://media.senscritique.com/media/000006421431/300/superman_batman_ennemis_publics.jpg"
+            },
+            {
+                "title": "superman / batman : apocalypse",
+                "poster": "https://media.senscritique.com/media/000006421414/300/superman_batman_apocalypse.jpg"
+            },
+            {
+                "title": "la ligue des justiciers : conflit sur les deux terres",
+                "poster": "https://media.senscritique.com/media/000019729840/300/la_ligue_des_justiciers_conflit_sur_les_deux_terres.jpg"
+            },
+            {
+                "title": "batman : assaut sur arkham",
+                "poster": "https://media.senscritique.com/media/000007338695/300/batman_assaut_sur_arkham.jpg"
+            },
+            {
+                "title": "batman : silence",
+                "poster": "https://media.senscritique.com/media/000018725984/300/batman_silence.jpg"
+            },
+            {
+                "title": "batman et red hood : sous le masque rouge",
+                "poster": "https://media.senscritique.com/media/000006421402/300/batman_et_red_hood_sous_le_masque_rouge.jpg"
+            },
+            {
+                "title": "le fils de batman",
+                "poster": "https://media.senscritique.com/media/000019854474/300/le_fils_de_batman.jpg"
+            },
+            {
+                "title": "batman : mauvais sang",
+                "poster": "https://media.senscritique.com/media/000017697850/300/batman_mauvais_sang.jpg"
+            },
+            {
+                "title": "superman contre brainiac",
+                "poster": "https://media.senscritique.com/media/000006353820/300/superman_contre_brainiac.jpg"
+            },
+            {
+                "title": "la ligue des justiciers : le paradoxe flashpoint",
+                "poster": "https://media.senscritique.com/media/000006353759/300/la_ligue_des_justiciers_le_paradoxe_flashpoint.jpg"
+            },
+            {
+                "title": "la ligue des justiciers : guerre",
+                "poster": "https://media.senscritique.com/media/000006353782/300/la_ligue_des_justiciers_guerre.jpg"
+            },
+            {
+                "title": "la ligue des justiciers : le trone de l'atlantide",
+                "poster": "https://media.senscritique.com/media/000019849316/300/la_ligue_des_justiciers_le_trone_de_l_atlantide.jpg"
+            },
+            {
+                "title": "la ligue des justiciers : dieux & monstres",
+                "poster": "https://media.senscritique.com/media/000019853814/300/la_ligue_des_justiciers_dieux_monstres.jpg"
+            },
+            {
+                "title": "batman vs. robin",
+                "poster": "https://media.senscritique.com/media/000009486024/300/batman_vs_robin.jpg"
+            },
+            {
+                "title": "la ligue des justiciers vs teen titans",
+                "poster": "https://media.senscritique.com/media/000017697847/300/la_ligue_des_justiciers_vs_teen_titans.jpg"
+            },
+            {
+                "title": "teen titans: the judas contract",
+                "poster": "https://media.senscritique.com/media/000016937051/300/teen_titans_the_judas_contract.jpg"
+            },
+            {
+                "title": "justice league dark",
+                "poster": "https://media.senscritique.com/media/000016730783/300/justice_league_dark.jpg"
+            },
+            {
+                "title": "justice league dark : apokolips war",
+                "poster": "https://media.senscritique.com/media/000019392274/300/justice_league_dark_apokolips_war.jpg"
+            },
+            {
+                "title": "batman : the dark knight returns, partie 1",
+                "poster": "https://media.senscritique.com/media/000019853722/300/batman_the_dark_knight_returns_partie_1.jpg"
+            },
+            {
+                "title": "batman : the dark knight returns, partie 2",
+                "poster": "https://media.senscritique.com/media/000019853723/300/batman_the_dark_knight_returns_partie_2.jpg"
+            },
+            {
+                "title": "superman : red son",
+                "poster": "https://media.senscritique.com/media/000019170900/300/superman_red_son.jpg"
+            },
+            {
+                "title": "wonder woman : bloodlines",
+                "poster": "https://media.senscritique.com/media/000018642361/300/wonder_woman_bloodlines.jpg"
+            },
+            {
+                "title": "batman et les tortues ninja",
+                "poster": "https://media.senscritique.com/media/000018451096/300/batman_et_les_tortues_ninja.jpg"
+            },
+            {
+                "title": "justice league vs. the fatal five",
+                "poster": "https://media.senscritique.com/media/000018394745/300/justice_league_vs_the_fatal_five.jpg"
+            },
+            {
+                "title": "batman: gotham by gaslight",
+                "poster": "https://media.senscritique.com/media/000019856379/300/batman_gotham_by_gaslight.jpg"
+            }
+        ]
 
+
+    }
+        
 }
